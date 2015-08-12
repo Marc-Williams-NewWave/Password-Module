@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "passwordModule",
+    "packageName": "cdat.nwt.passwordmod",
+    "packageFolder": "cdat/nwt/passwordmod",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "4488265e58dc7ad21b30d17e8d2fba35c8d2667e"
+  }
+}
